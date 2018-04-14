@@ -5,27 +5,6 @@ subtitle: I am a smart heading.
 desc: About me.
 permalink: /about/
 ---
-
-<div class="pretty-links">
-
-<div class="lead lead-about">Some intro text that is eye catching and should put you reader at ease and confident in your skills.
-</div>
-
-{::nomarkdown} 
-<figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/profile.png">
-</figure>
-{:/}
-
-Neve aethere orbe hic *virginis trunco* in spreto diuque latarumque, mea? Ultima
-sulcum antris conlapsosque potiere curvat Phasias superas adpulit vertex est
-Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
-[candida](http://murmure.org/.html).
-
----
-
-## Quem fata quamvis
-
 Washington native, Preston attended both the Art Institute of Seattle (AAA) and The Evergreen State College (BA). He is a Taurus and his favorite James Bond film is ‘Diamonds are Forever.’
 
 **Recognition**
