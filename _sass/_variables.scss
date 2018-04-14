@@ -10,6 +10,7 @@ $gray-lightest:             #fafaf8;
 $blue:                      #4072AF;
 $light-blue:                lighten($blue, 45%);
 $dark-blue:                 darken($blue, 20%);
+$pp-blue: #025DBA;
 
 $ligt-yellow:               #fcf8e3;
 
@@ -23,7 +24,7 @@ $text-muted:                $gray-light;
 
 // GLOBALS  ====================================
 
-$body-bg:                   $blue;
+$body-bg:                   $pp-blue;
 $body-color:                $gray-dark;
 
 // GLOBALS - LINKS ------------------
