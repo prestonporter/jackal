@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: I am a smart heading.
+subtitle: About
 desc: About me.
 permalink: /about/
 ---
@@ -14,6 +14,4 @@ Washington native, Preston attended both the Art Institute of Seattle (AAA) and 
 - Millimeter June 2009
 - National Association Of Broadcasters Show Reel Impressions Theatre, NAB Show 2008
 - Digital Content Producer July 2007
-
-</div>
 
