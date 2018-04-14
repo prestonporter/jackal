@@ -6,6 +6,7 @@ $gray:                      #55595c;
 $gray-light:                #818a91;
 $gray-lighter:              #eceeef;
 $gray-lightest:             #fafaf8;
+$gray-pp: #1a1a1a;
 
 $blue:                      #4072AF;
 $light-blue:                lighten($blue, 45%);
@@ -24,7 +25,7 @@ $text-muted:                $gray-light;
 
 // GLOBALS  ====================================
 
-$body-bg:                   $pp-blue;
+$body-bg:                   $gray-pp;
 $body-color:                $gray-dark;
 
 // GLOBALS - LINKS ------------------
