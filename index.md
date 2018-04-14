@@ -3,9 +3,9 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-  Hi! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
+  I'm a graphic artist and operator at Kraken Design in Olympia, Washington. With over 10 years experience, I create original and research-focused identity packages, unique and internationally recognized stationery and print collateral. As well as motion graphics and short-form video production.
 
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
 
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
+Services include:
+1)graphic & digital design 2)specialty stationery and identity projects 3)vector illustration, symbols, logos 4)custom and experimental projects 5)motion graphics & video production
 </div>
