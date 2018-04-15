@@ -10,13 +10,10 @@ E: info@prestonporter.net
 
 Submit Project Inquiry ➔
 
-1001 Cooper Point Rd SW, Suite 140
-PMB 153
+1001 Cooper Point Rd SW, Suite 140<br>
+PMB 153<br>
 Olympia, Washington 98502
 
-Get Connected
-Behance
-LinkedIn
-TwitterBuy
-RedBubble
-Society6
+**Get Connected**
+- LinkedIn
+- Twitter
