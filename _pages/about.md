@@ -8,8 +8,8 @@ permalink: /about/
 **Profile**
 - Washington native
 - Art Institute of Seattle (AAA)
-- The Evergreen State College (BA). 
-- Favorite James Bond film is ‘Diamonds are Forever.’
+- The Evergreen State College (BA) 
+- Favorite James Bond film is ‘Diamonds are Forever’
 
 **Recognition**
 - Advanced Photoshop Issue 84, June 2011
