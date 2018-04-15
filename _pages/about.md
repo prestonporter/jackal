@@ -5,7 +5,11 @@ subtitle: About
 desc: About me.
 permalink: /about/
 ---
-Washington native, Preston attended both the Art Institute of Seattle (AAA) and The Evergreen State College (BA). He is a Taurus and his favorite James Bond film is ‘Diamonds are Forever.’
+**Profile**
+- Washington native
+- Art Institute of Seattle (AAA)
+- The Evergreen State College (BA). 
+- Favorite James Bond film is ‘Diamonds are Forever.’
 
 **Recognition**
 - Advanced Photoshop Issue 84, June 2011
