@@ -12,10 +12,10 @@ permalink: /about/
 - Favorite James Bond film is ‘Diamonds are Forever’
 
 **Recognition**
-- Advanced Photoshop Issue 84, June 2011
-- Business Cards: The Design Inspiration / You The Designer / Graphic Design Junction / Naldz Graphics
-- Sound And Video Contractor June 2009
-- Millimeter June 2009
+- **_Advanced Photoshop_** Issue 84, June 2011
+- **Business Cards:** The Design Inspiration / You The Designer / Graphic Design Junction / Naldz Graphics
+- **_Sound And Video Contractor_**, June 2009
+- **_Millimeter_**, June 2009
 - National Association Of Broadcasters Show Reel Impressions Theatre, NAB Show 2008
-- Digital Content Producer July 2007
+- **_Digital Content Producer_**, July 2007
 
