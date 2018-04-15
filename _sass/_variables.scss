@@ -15,11 +15,15 @@ $pp-blue: #025DBA;
 
 $ligt-yellow:               #fcf8e3;
 
+$pp-yellow:               #ffcc99;
+$light-pp-yellow:                lighten($pp-yellow, 45%);
+$dark-pp-yellow:                 darken($pp-yellow, 20%);
+
 $red:                       #bd4147;
 
 // COLORS - BRAND ------------------
-$brand-color:               $blue;
-$brand-light-color:         $light-blue;
+$brand-color:               $pp-yellow;
+$brand-light-color:         $light-pp-yellow;
 $brand-secondary:           $gray-dark;
 $text-muted:                $gray-light;
 
@@ -31,7 +35,7 @@ $body-color:                $gray-lightest;
 // GLOBALS - LINKS ------------------
 $link-color:                $brand-color;
 $link-decoration:           none;
-$link-hover-color:          $dark-blue;
+$link-hover-color:          $dark-pp-yellow;
 $link-hover-decoration:     underline;
 
 // GLOBALS - SPACERS ------------------
